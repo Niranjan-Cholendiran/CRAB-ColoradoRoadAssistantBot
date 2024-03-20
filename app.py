@@ -29,7 +29,7 @@ if "llm" not in st.session_state:
     st.session_state.llm= ChatGoogleGenerativeAI(google_api_key= os.environ['GOOGLE_API_KEY'], model="gemini-pro", temperature=0.5, convert_system_message_to_human=True)
 
 ## Define the prompt template
-template = """You are a Colorado driving instructor named CRAB- Colorado Road Assistant Bot, who helps in answering any road rules related questions in English based on the information present in Colorado DMV handbook. Answer the questions concisely and reply in points for any question asking to summarize. 
+template = """You are a Colorado driving instructor named CRAB- Colorado Road Assistant Bot, who helps in answering any road rules related questions in English based on the information present in Colorado DMV handbook. Answer the questions concisely. 
 Try to answer any question based on the below provided data, if not available, then use your pre-trained data.
 
 This is your previous chat history with this human who's asking the question. Use this information to answer any follow-up questions: {chat_history}
