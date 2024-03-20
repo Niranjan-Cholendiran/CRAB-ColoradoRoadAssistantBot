@@ -20,6 +20,9 @@ CRAB is a chat assistant designed to tackle any queries straight from Coloradoâ€
 
 Find more about CRAB in this [LinkedIn post](www.linkedin.com) and see CRAB in action [here](https://huggingface.co/spaces/NiranjanC/CRAB-ColoradoRoadAssistantBot).
 
+![Architecture RAG](https://github.com/Niranjan-Cholendiran/CRAB-ColoradoRoadAssistantBot/assets/78549555/8ed1b86b-f76c-4f35-b42f-b8eca0053193)
+
+
 ## Installation
 
 1. **Install Python Packages:**
