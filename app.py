@@ -76,7 +76,8 @@ with col1:
     st.write(' ')
 with col2:
     #st.image("resources\CRAB Logo WithBg2.jpg")
-    st.image("resources/CRAB Logo WithBg2.jpg")
+    logo_link= "https://i.ibb.co/CBK8JPR/CRAB-Logo-With-Bg2.jpg"
+    st.image(logo_link)
 with col3:
     st.write(' ')
 st.title("CRAB- Colorado Road Assistant Bot")
