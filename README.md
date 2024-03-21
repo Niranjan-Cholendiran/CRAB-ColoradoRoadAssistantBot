@@ -15,7 +15,7 @@ pinned: false
 
 CRAB is a chat assistant designed to tackle any queries straight from Colorado’s driver handbook. Powered by cutting-edge technology, CRAB utilizes Google’s Gemini language model, Pinecone vector database, and is wrapped with LangChain to provide specific and accurate answers to your road rule questions.
 
-Find more about CRAB in this [LinkedIn post](www.linkedin.com) and see CRAB in action [here](https://huggingface.co/spaces/NiranjanC/CRAB-ColoradoRoadAssistantBot).
+Find more about CRAB in this [LinkedIn post](https://www.linkedin.com/posts/niranjan-cholendiran_gemini-pinecone-langchain-activity-7176397118763380736-hdo1?utm_source=share&utm_medium=member_desktop) and see CRAB in action [here](https://huggingface.co/spaces/NiranjanC/CRAB-ColoradoRoadAssistantBot).
 
 ![Architecture RAG](https://github.com/Niranjan-Cholendiran/CRAB-ColoradoRoadAssistantBot/assets/78549555/8ed1b86b-f76c-4f35-b42f-b8eca0053193)
 
